@@ -1,2 +1,5 @@
-Updated-1
-Hellow
+class program { 
+public static void main(String[]args){
+system.out.println("hello world");
+}
+}
